@@ -1,0 +1,16 @@
+
+# Configuración del CLI de Gemini
+# Archivo de texto donde está el prompt a enviar
+prompt_file=C:\Users\Fran\Desktop\Octaveeee\autoevaluacion.m
+
+# Archivo de texto donde se va a guardar la respuesta
+output_file=C:\Users\Fran\Desktop\Octaveeee\solucion.m
+
+# Modelo de Gemini a usar
+model=gemini-3.1-pro-preview
+
+# Archivo de texto con contexto/instrucciones fijas que se aplican siempre (opcional)
+system_file=C:\Users\Fran\Desktop\proyecto ff\system.txt
+
+# Carpeta donde se busca la última imagen para adjuntar, si no se pasa --imagen (opcional)
+images_dir=C:\Users\Fran\Desktop\imagen_input
