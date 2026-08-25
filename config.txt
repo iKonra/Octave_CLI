@@ -14,3 +14,7 @@ system_file=C:\Users\Fran\Desktop\proyecto ff\system.txt
 
 # Carpeta donde se busca la última imagen para adjuntar, si no se pasa --imagen (opcional)
 images_dir=C:\Users\Fran\Desktop\imagen_input
+
+
+
+#PUTITO
